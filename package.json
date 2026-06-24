@@ -43,7 +43,7 @@
     "build": "node build.js"
   },
   "devDependencies": {
-    "esbuild": "^0.24.0"
+    "esbuild": "^0.28.1"
   },
   "publishConfig": {
     "access": "public"
